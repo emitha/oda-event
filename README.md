@@ -34,7 +34,7 @@ What do you need?
 
 There are 9 steps in this lab, please do them in this order.
 
-1. Create your content with a sample Q&A file provided 
+1. Create your content with a sample Q&A file provided : https://github.com/emitha/oda-event/blob/main/HCM_QnA.pdf
 
 2. Add questions and answers to the bot
 
