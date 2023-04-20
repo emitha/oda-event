@@ -1,11 +1,7 @@
 # oda-event
 Oracle Digital Assistant: HR Template Training ----- creating bots by Business Users
 
-Before you Begin
-
 This is hands-on lab in an entry-level exercise to start working with Oracle Digital Assistant using the Concierge template
-
-Background
 
 Oracle Digital Assistant is an environment for building digital assistants, which are user interfaces driven by artificial intelligence (AI) that help users accomplish a variety of tasks in natural language conversations. Digital assistants consist of one or more skills, which are individual chatbots that are focused on specific types of tasks.
 
@@ -35,4 +31,32 @@ What do you need?
   
   
 2. Open the document https://github.com/emitha/oda-event/blob/main/ConciergeTemplate.pdf and let's start right now! 
+
+There are 9 steps in this lab, please do them in this order.
+
+1. Create your content with a sample Q&A file provided 
+
+2. Add questions and answers to the bot
+
+3. Train your bot
+
+4. Customize your welcome message
+
+5. Manage unresolved Intent
+
+6. Modify the menu
+
+7. Feedback feature (Optional if enough time)
+
+8. Conditional answers (Optional if enough time)
+
+9. Use the Web SDK (Optional if enough time)
+
+
+
+
+
+
+
+
 
