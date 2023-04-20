@@ -33,6 +33,5 @@ What do you need?
   --> Sign In ---> Tenancy, type <b>amaris</b> 
   then <b>Oracle Cloud Infrastructure Direct Sign-In</b> with user01 to user40, pwd is <b>IIBa@25!</b>
   
-
   
 2. Open the document ConciergeTemplate.pdf in this repository and let's start right now! 
