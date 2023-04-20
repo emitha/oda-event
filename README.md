@@ -30,4 +30,9 @@ What do you need?
   
   • for users20 to users40, please login here: https://oda-d096a3b94de143b1928278897a39df60-da4.data.digitalassistant.oci.oraclecloud.com/botsui/
   
+  --> Sign In ---> Tenancy, type <b>amaris</b> 
+  then <b>Oracle Cloud Infrastructure Direct Sign-In</b> with user01 to user40, pwd is <b>IIBa@25!</b>
+  
+
+  
 2. Open the document ConciergeTemplate.pdf in this repository and let's start right now! 
