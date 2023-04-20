@@ -34,4 +34,5 @@ What do you need?
   then <b>Oracle Cloud Infrastructure Direct Sign-In</b> with user01 to user40, pwd is <b>IIBa@25!</b>
   
   
-2. Open the document ConciergeTemplate.pdf in this repository and let's start right now! 
+2. Open the document https://github.com/emitha/oda-event/blob/main/ConciergeTemplate.pdf and let's start right now! 
+
