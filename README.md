@@ -20,12 +20,10 @@ What do you need?
 
 1. Access to an Oracle Digital Assistant instance 
 
-  user01 to user40, pwd is <b>IIBa@25!</b>
+  a user01 to user40 will be assigned to you, pwd is <b>IIBa@25!</b>
   
-  • for users01 to users20, please login here: https://oda-d096a3b94de143b1928278897a39df60-da4.data.digitalassistant.oci.oraclecloud.com/botsui/
-  
-  • for users21 to users40, please login here: https://oda-d096a3b94de143b1928278897a39df60-da4.data.digitalassistant.oci.oraclecloud.com/botsui/
-  
+  • please login here: https://oda-d096a3b94de143b1928278897a39df60-da4.data.digitalassistant.oci.oraclecloud.com/botsui/
+ 
   --> Sign In ---> Tenancy, type <b>amaris</b> 
   then <b>Oracle Cloud Infrastructure Direct Sign-In</b> with user01 to user40, pwd is <b>IIBa@25!</b>
   
