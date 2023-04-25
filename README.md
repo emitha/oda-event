@@ -28,13 +28,13 @@ What do you need?
   then <b>Oracle Cloud Infrastructure Direct Sign-In</b> with user01 to user40, pwd is <b>IIBa@25!</b>
   
   
-2. Open the document https://github.com/emitha/oda-event/blob/main/ConciergeTemplate.pdf and let's start right now! 
+2. The main document is this one, open this document https://github.com/emitha/oda-event/blob/main/ConciergeTemplate.pdf and let's start right now! 
 
 There are 9 steps in this lab, please do them in this order.
 
-1. Create your content with a sample Q&A file provided : https://github.com/emitha/oda-event/blob/main/HCM_QnA.pdf target=”_blank”
+1. Create your content with a sample Q&A file, DOWNLOAD it on your laptop from here https://github.com/emitha/oda-event/blob/main/HCM_QnA.pdf, you will upload it on the ODA platform.
 
-2. Add questions and answers to the bot
+2. Add questions and answers to the bot from the HCM_QnA.pdf file downloaded
 
 3. Train your bot
 
